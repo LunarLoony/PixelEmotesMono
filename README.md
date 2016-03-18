@@ -35,6 +35,8 @@ If you wanna use it with anything else, go right ahead! (And drop me a message i
 
 ![Cute](cute.png) - Cute
 
+![Crying](crying.png) - Crying
+
 ![La la la](madness.gif) - Crazy
 
 ![Devil](devil.png) - Devilish
@@ -59,13 +61,15 @@ If you wanna use it with anything else, go right ahead! (And drop me a message i
 
 ![Laughing](laughing.png) - Laughing
 
+![Lips Sealed](lips_sealed.png) - Lips Sealed
+
 ![Pouting](pouting.png) - 8C
 
 ![Rock On!](rockon.png) - Rock On
 
 ![Sad](frowning.png) - Sad
 
-![Very Sad](crying.png) - REALLY Sad
+![Very Sad](verysad.png) - REALLY Sad
 
 ![Shock](gasping.png) - Shocked
 
