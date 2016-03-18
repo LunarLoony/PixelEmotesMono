@@ -1,3 +1,6 @@
-[Grav Smileys Data Pack - Pixel Emotes](assets/logo.png)]
+# ![Grav Smileys Data Pack - Simple Smileys](assets/logo.png)
 
-A free and modifiable pack of emoticons for any purpose. Designed for Grav CMS.
+Pixel Emotes is a pack of emoticons designed for use with text (of course!)
+The pack currently includes 39 different emotes, all hand-pixelled and all really damn cute.
+
+![Grav Smileys Data Pack - Simple Smileys](assets/preview.png)
