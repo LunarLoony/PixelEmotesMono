@@ -109,11 +109,11 @@ smileys:
     enabled: true
     acronyms: "x-D xD :lol: :rofl:"
     description: "Laughing"
-	
+    
   lips_sealed:
     enabled: true
-	acronyms: ":X :x :sealed:"
-	description: "My lips are sealed!"
+    acronyms: ":X :x :sealed:"
+    description: "My lips are sealed!"
 
   madness:
     enabled: true
@@ -139,11 +139,11 @@ smileys:
     enabled: true
     acronyms: ":-| :| =| =-| :undecided:"
     description: "Blank Stare"
-	
+    
   srsface:
     enabled: true
-	acronyms: ".-. ._."
-	description: "srsface"
+    acronyms: ".-. ._."
+    description: "srsface"
 
   stupid:
     enabled: true
@@ -189,11 +189,11 @@ smileys:
     enabled: true
     acronyms: ":/ :-/ :// :-// =/ =-/"
     description: "Unsure"
-	
+    
   verysad:
     enabled: true
-	acronyms: ":verysad: :please:"
-	description: "Pleeeeaaase??"
+    acronyms: ":verysad: :please:"
+    description: "Pleeeeaaase??"
 
   wave:
     enabled: true
@@ -207,5 +207,10 @@ smileys:
 
   wrong:
     enabled: true
-	acronyms: ":wrong:"
-	description: "WRONG WRONG WRONG WRONG WRONG WRONG WRONG!"
+    acronyms: ":wrong:"
+    description: "WRONG WRONG WRONG WRONG WRONG WRONG WRONG!"
+
+  zombie:
+    enabled: true
+    acronyms: ":zombie:"
+    description: "Braaaaaaains..."
