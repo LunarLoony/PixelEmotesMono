@@ -109,6 +109,11 @@ smileys:
     enabled: true
     acronyms: "x-D xD :lol: :rofl:"
     description: "Laughing"
+	
+  lips_sealed:
+    enabled: true
+	acronyms: ":X :x :sealed:"
+	description: "My lips are sealed!"
 
   madness:
     enabled: true
@@ -184,6 +189,11 @@ smileys:
     enabled: true
     acronyms: ":/ :-/ :// :-// =/ =-/"
     description: "Unsure"
+	
+  verysad:
+    enabled: true
+	acronyms: ":verysad: :please:"
+	description: "Pleeeeaaase??"
 
   wave:
     enabled: true
