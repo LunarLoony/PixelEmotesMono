@@ -8,7 +8,6 @@ homepage: http://spacefarer.space
 license: GNU General Public Licence v3
 
 smileys:
-
   8B:
     enabled: true
     acronyms: ":8B:"
@@ -37,7 +36,7 @@ smileys:
   cool:
     enabled: true
     acronyms: "B) B-) 8) 8-)"
-    description: "Duuuuuude..."
+    description: "Cool Dude"
 
   crying:
     enabled: true
@@ -52,12 +51,12 @@ smileys:
   devil:
     enabled: true
     acronyms: ":devil:"
-    description: "Bwahaha!"
+    description: "Devilish"
 
   evil:
     enabled: true
     acronyms: ":evil: >:)"
-    description: "Evil"
+    description: "Bwahaha!"
 
   frowning:
     enabled: true
@@ -72,7 +71,7 @@ smileys:
   greedy:
     enabled: true
     acronyms: "$) $$) $-) $$-) $> $-> $$> $-> $$-> $_$"
-    description: "Lods of emone"
+    description: "Greed is good!"
 
   grinning:
     enabled: true
@@ -87,7 +86,7 @@ smileys:
   heart:
     enabled: true
     acronyms: "<3 <<3"
-    description: "Closer to the heart"
+    description: "Lovestruck"
 
   hug:
     enabled: true
@@ -207,7 +206,7 @@ smileys:
   wrong:
     enabled: true
     acronyms: ":wrong:"
-    description: "WRONG WRONG WRONG WRONG WRONG WRONG WRONG!"
+    description: "WRONG!"
 
   zombie:
     enabled: true
