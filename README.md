@@ -6,3 +6,5 @@ The pack currently includes 39 different emotes, all hand-pixelled and all reall
 ![Grav Smileys Data Pack - Simple Smileys](assets/preview.png)
 
 This pack contains a .yaml file for use with [Grav CMS](http://getgrav.org) - specifically, its Smileys plugin - but if you wanna use it with anything else, go right ahead! (And drop me a message if you do use them!)
+
+![Hug](hug.png)
