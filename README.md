@@ -15,6 +15,10 @@ If you wanna use it with anything else, go right ahead! (And drop me a message i
 
 ![Hug](hug.png)
 
+# Preview
+
+![Screenshot](assets/capture.png)
+
 # Included emoticons
 
 ![Base](_base.png) - Base
