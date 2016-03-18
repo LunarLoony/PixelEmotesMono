@@ -1,11 +1,11 @@
-name: Flump Pack
+name: Pixel Emotes - White
 version: 1.0
-description: "Sex, drugs and rock n' roll."
+description: "A handmade set of emoticons for Grav!"
 author:
   name: Tim Scott
   email: 
 homepage: http://spacefarer.space
-license: CC-BY-NC-SA
+license: GNU General Public Licence v3
 
 smileys:
 
@@ -17,7 +17,7 @@ smileys:
   angel:
     enabled: true
     acronyms: "O:-) O:) O+) O=) 0:-3 0:3 0:-) 0:) 0+) 0=) 0;^) :angel: :innocent:"
-    description: "Angel"
+    description: "Angelic"
 
   angry:
     enabled: true
@@ -27,7 +27,7 @@ smileys:
   blushing:
     enabled: true
     acronyms: ":'> :'-> :-. :. :v :-v ^^;"
-    description: "Blushing"
+    description: "Blush"
 
   confused:
     enabled: true
@@ -53,12 +53,7 @@ smileys:
   devil:
     enabled: true
     acronyms: ":devil:"
-    description: "Bwahaha"
-
-  drugged:
-    enabled: true
-    acronyms: "X) X-) ^.^"
-    description: "drugged"
+    description: "Bwahaha!"
 
   evil:
     enabled: true
@@ -72,7 +67,7 @@ smileys:
 
   gasping:
     enabled: true
-    acronyms: ":O :-O :0 :-0 :wow:"
+    acronyms: ":O :-O :0 :-0 :wow: :shocked:"
     description: "My God!"
 
   greedy:
@@ -83,7 +78,7 @@ smileys:
   grinning:
     enabled: true
     acronyms: ">:D :-D :D +D =-D =D =-3 =3 :grin:"
-    description: "Grinning"
+    description: "Big Grin"
 
   happy_smiling:
     enabled: true
@@ -108,17 +103,12 @@ smileys:
   kissing:
     enabled: true
     acronyms: ":-* :* :-{} :{} +{} ={} o3o"
-    description: "kissing"
+    description: "But first, let me take a selfie."
 
   laughing:
     enabled: true
     acronyms: "x-D xD :lol: :rofl:"
-    description: "laughing"
-
-  lips_sealed:
-    enabled: true
-    acronyms: ":-X :X :$---"
-    description: "lips sealed"
+    description: "Laughing"
 
   madness:
     enabled: true
@@ -128,102 +118,82 @@ smileys:
   pouting:
     enabled: true
     acronyms: "+(( =(( :-c :c :C"
-    description: "pouting"
+    description: "Pout"
 
   rockon:
     enabled: true
     acronyms: ":rock:"
-    description: "rockon"
-
-  sick:
-    enabled: true
-    acronyms: "X/ X-/ >.> <.<"
-    description: "sick"
+    description: "Rock on!"
 
   smiling:
     enabled: true
     acronyms: ":-) :) +) :o) :] :c) :> =] 8) =) :} :^)"
-    description: "smiling"
+    description: "Smiling"
 
   speechless:
     enabled: true
     acronyms: ":-| :| =| =-| :undecided:"
-    description: "speechless"
+    description: "Blank Stare"
 	
   srsface:
     enabled: true
 	acronyms: ".-. ._."
-	description: "
+	description: "srsface"
 
   stupid:
     enabled: true
-    acronyms: "8-S 8S"
-    description: "stupid"
+    acronyms: "8-S 8S :dummy: :stupid:"
+    description: "I am a dummy!"
 
   surprised:
     enabled: true
-    acronyms: "o_O o_0 o.O o.0 :shocked: O_o 0_o O.o 0.o o_o O_O o.o O.O 0.0 0_0"
-    description: "surprised"
+    acronyms: "o_O o_0 o.O o.0"
+    description: "Surprised"
 
   surprised_2:
-    enabled: false
+    enabled: true
     acronyms: "O_o 0_o O.o 0.o"
-    description: "surprised"
+    description: "Surprised"
 
   terrified:
     enabled: true
     acronyms: ":-(( :(( :-< :< :-[ :[ :{ D:"
-    description: "terrified"
+    description: "Eep!"
 
   thumbs_down:
     enabled: true
-    acronyms: "qp"
-    description: "thumbs down"
+    acronyms: ":qp: :thumbsdown:"
+    description: "Thumbs Down"
 
   thumbs_up:
     enabled: true
-    acronyms: "d3"
-    description: "thumbs up"
+    acronyms: ":d3: :thumbsup:"
+    description: "Thumbs Up"
 
   tired:
     enabled: true
-    acronyms: "zO Z-O :! :-! :1 :-1 zZ :yawn:"
-    description: "tired"
-
-  tongue_out:
-    enabled: true
-    acronyms: ":-P :P"
-    description: "tongue out"
-
-  tongue_out_laughing:
-    enabled: true
-    acronyms: "X-P XP"
-    description: "tongue out laughing"
+    acronyms: "zO Z-O :! :-! :1 :-1 zZ :yawn: :tired: :sleepy:"
+    description: "Sleepy"
 
   unsure:
     enabled: true
     acronyms: ":\ :-\ :\\ :-\\ =\\ =-\\"
-    description: "unsure"
+    description: "Unsure"
 
   unsure_2:
     enabled: true
     acronyms: ":/ :-/ :// :-// =/ =-/"
-    description: "unsure"
+    description: "Unsure"
 
   wave:
     enabled: true
     acronyms: ":wave:"
-    description: "wave"
+    description: "Wave"
 
   winking:
     enabled: true
     acronyms: ";) ;-)"
-    description: "winking"
-
-  winking_tongue_out:
-    enabled: true
-    acronyms: ";P ;-P"
-    description: "winking tongue out"
+    description: "Winking"
 
   wrong:
     enabled: true
