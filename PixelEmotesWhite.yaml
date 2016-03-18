@@ -1,0 +1,231 @@
+name: Flump Pack
+version: 1.0
+description: "Sex, drugs and rock n' roll."
+author:
+  name: Tim Scott
+  email: 
+homepage: http://spacefarer.space
+license: CC-BY-NC-SA
+
+smileys:
+
+  8B:
+    enabled: true
+    acronyms: ":8B:"
+    description: "8B"
+
+  angel:
+    enabled: true
+    acronyms: "O:-) O:) O+) O=) 0:-3 0:3 0:-) 0:) 0+) 0=) 0;^) :angel: :innocent:"
+    description: "Angel"
+
+  angry:
+    enabled: true
+    acronyms: ">:( >:-( ):( ):-( 8( )8-( )B( )B-( (:-& (:& X-( X("
+    description: "Angry"
+
+  blushing:
+    enabled: true
+    acronyms: ":'> :'-> :-. :. :v :-v ^^;"
+    description: "Blushing"
+
+  confused:
+    enabled: true
+    acronyms: ":? :-? ^~^ %-( %( :S"
+    description: "Say what?"
+
+  cool:
+    enabled: true
+    acronyms: "B) B-) 8) 8-)"
+    description: "Duuuuuude..."
+
+  crying:
+    enabled: true
+    acronyms: ":'-( :'( :'-) :') :*( :*-( :,( :,-("
+    description: "Crying"
+
+  cute:
+    enabled: true
+    acronyms: ":3 :-3 :} :-}"
+    description: "N'aww."
+
+
+  devil:
+    enabled: true
+    acronyms: ":devil:"
+    description: "Bwahaha"
+
+  drugged:
+    enabled: true
+    acronyms: "X) X-) ^.^"
+    description: "drugged"
+
+  evil:
+    enabled: true
+    acronyms: ":evil:"
+    description: "Evil"
+
+  frowning:
+    enabled: true
+    acronyms: ":( :-( +( +-( =( =-("
+    description: "Sad"
+
+  gasping:
+    enabled: true
+    acronyms: ":O :-O :0 :-0 :wow:"
+    description: "My God!"
+
+  greedy:
+    enabled: true
+    acronyms: "$) $$) $-) $$-) $> $-> $$> $-> $$->"
+    description: "Lods of emone"
+
+  grinning:
+    enabled: true
+    acronyms: ">:D :-D :D +D =-D =D =-3 =3 :grin:"
+    description: "Grinning"
+
+  happy_smiling:
+    enabled: true
+    acronyms: ":> :-> ^^) ^^-) ^^D ^^-D ^^ ^_^"
+    description: "Happy"
+
+  heart:
+    enabled: true
+    acronyms: "<3 <<3"
+    description: "Closer to the heart"
+
+  hug:
+    enabled: true
+    acronyms: ":hug:"
+    description: "Hug"
+
+  irritated:
+    enabled: true
+    acronyms: ">_< X| X-|"
+    description: "Irritated"
+
+  kissing:
+    enabled: true
+    acronyms: ":-* :* :-{} :{} +{} ={} o3o"
+    description: "kissing"
+
+  laughing:
+    enabled: true
+    acronyms: "x-D xD :lol: :rofl:"
+    description: "laughing"
+
+  lips_sealed:
+    enabled: true
+    acronyms: ":-X :X :$---"
+    description: "lips sealed"
+
+  madness:
+    enabled: true
+    acronyms: "8-D 8D *_* :la:"
+    description: "La la la la"
+
+  pouting:
+    enabled: true
+    acronyms: "+(( =(( :-c :c :C"
+    description: "pouting"
+
+  rockon:
+    enabled: true
+    acronyms: ":rock:"
+    description: "rockon"
+
+  sick:
+    enabled: true
+    acronyms: "X/ X-/ >.> <.<"
+    description: "sick"
+
+  smiling:
+    enabled: true
+    acronyms: ":-) :) +) :o) :] :c) :> =] 8) =) :} :^)"
+    description: "smiling"
+
+  speechless:
+    enabled: true
+    acronyms: ":-| :| =| =-| :undecided:"
+    description: "speechless"
+	
+  srsface:
+    enabled: true
+	acronyms: ".-. ._."
+	description: "
+
+  stupid:
+    enabled: true
+    acronyms: "8-S 8S"
+    description: "stupid"
+
+  surprised:
+    enabled: true
+    acronyms: "o_O o_0 o.O o.0 :shocked: O_o 0_o O.o 0.o o_o O_O o.o O.O 0.0 0_0"
+    description: "surprised"
+
+  surprised_2:
+    enabled: false
+    acronyms: "O_o 0_o O.o 0.o"
+    description: "surprised"
+
+  terrified:
+    enabled: true
+    acronyms: ":-(( :(( :-< :< :-[ :[ :{ D:"
+    description: "terrified"
+
+  thumbs_down:
+    enabled: true
+    acronyms: "qp"
+    description: "thumbs down"
+
+  thumbs_up:
+    enabled: true
+    acronyms: "d3"
+    description: "thumbs up"
+
+  tired:
+    enabled: true
+    acronyms: "zO Z-O :! :-! :1 :-1 zZ :yawn:"
+    description: "tired"
+
+  tongue_out:
+    enabled: true
+    acronyms: ":-P :P"
+    description: "tongue out"
+
+  tongue_out_laughing:
+    enabled: true
+    acronyms: "X-P XP"
+    description: "tongue out laughing"
+
+  unsure:
+    enabled: true
+    acronyms: ":\ :-\ :\\ :-\\ =\\ =-\\"
+    description: "unsure"
+
+  unsure_2:
+    enabled: true
+    acronyms: ":/ :-/ :// :-// =/ =-/"
+    description: "unsure"
+
+  wave:
+    enabled: true
+    acronyms: ":wave:"
+    description: "wave"
+
+  winking:
+    enabled: true
+    acronyms: ";) ;-)"
+    description: "winking"
+
+  winking_tongue_out:
+    enabled: true
+    acronyms: ";P ;-P"
+    description: "winking tongue out"
+
+  wrong:
+    enabled: true
+	acronyms: ":wrong:"
+	description: "WRONG WRONG WRONG WRONG WRONG WRONG WRONG!"
