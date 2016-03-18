@@ -94,3 +94,5 @@ If you wanna use it with anything else, go right ahead! (And drop me a message i
 ![Wink](winking.png) - Wink
 
 ![Wrong](wrong.png) - WRONG!
+
+![Zombie](zombie.gif) - Zombie
